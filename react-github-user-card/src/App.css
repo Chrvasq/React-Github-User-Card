@@ -199,3 +199,9 @@ body {
   font-style: italic;
   margin: 3px 0 10px;
 }
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
